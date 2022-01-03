@@ -1,0 +1,7 @@
+.carousel-inner {
+  height: 500px;
+  position: relative;
+}
+.button {
+  border-radius: 25px;
+}
