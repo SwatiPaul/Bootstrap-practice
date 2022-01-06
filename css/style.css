@@ -1,7 +1,105 @@
 .carousel-inner {
   height: 500px;
   position: relative;
+  margin-top: -20px;
 }
-.button {
+.colortab {
+  color: rgba(235, 202, 59, 0.959);
+}
+.btn-object {
+  background-color: rgb(202, 123, 33);
+  border-radius: 20px;
+}
+
+.btn-object:hover {
+  background-color: rgb(240, 213, 63);
+  border-radius: 20px;
+}
+.text-color {
+  color: rgb(133, 62, 12);
+  padding-top: 85px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.bgcolor {
+  background-color: rgb(241, 225, 190);
+
+  width: fit-content;
+  margin-top: -50px;
+}
+.container-object {
+  padding-top: 35px;
+}
+.img-object {
+  margin-left: 20px;
+  border: 2px solid goldenrod;
+  border-radius: 20px;
+  width: 350px;
+}
+.img-object:hover {
+  border: 4px double rgb(212, 123, 7);
+  border-radius: 20px;
+  width: 360px;
+}
+.text-object {
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(75, 33, 3);
+  margin-top: 10px;
+  text-align: center;
+}
+.text-center {
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(87, 43, 14);
+  margin-top: 5px;
+}
+.text-centralize {
+  font-size: xx-large;
+  font-weight: 400;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(236, 108, 22);
+  text-align: center;
+  padding-top: 35px;
+}
+.events {
+  margin-top: -30px;
+  background-color: rgb(241, 225, 190);
+}
+.h1.text {
+  justify-content: center;
+  color: chocolate;
+  size: 20px;
+}
+.d-block {
+  height: 400px;
+  width: 70px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.main {
+  padding-top: ;
+}
+.text {
+  text-align: left;
+  color: rgb(158, 68, 8);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  size: 10px;
+}
+.btton {
+  background-color: rgba(252, 124, 5, 0.938);
+  height: 45px;
+  width: 160px;
+  margin-left: 560px;
+  margin-top: 25px;
   border-radius: 25px;
+}
+.bground {
+  background-color: rgb(241, 195, 138);
+  width: fit-content;
+  height: 250px;
+}
+.footer {
+  background-color: rgba(128, 128, 128, 0.966);
+  width: fit-content;
+  height: 350px;
 }
